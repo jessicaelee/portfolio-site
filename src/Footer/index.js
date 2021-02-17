@@ -1,7 +1,7 @@
 import React from "react";
 
 function Footer() {
-  return (<footer class="center footer">
+  return (<footer className="center footer">
     Jessica Lee &copy; 2021
   </footer>)
 };

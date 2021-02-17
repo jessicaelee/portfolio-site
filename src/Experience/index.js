@@ -4,7 +4,7 @@ import { Card } from "react-bootstrap";
 function Experience() {
   return (
     <Card><h2>Experience</h2>
-      <p><strong>Fullstack Developer @ <a href="http://livestack.video" target="_blank">Livestack</a></strong> <i>March 2020 - March 2021</i>
+      <p><strong>Fullstack Developer @ <a href="http://livestack.video" target="_blank" rel="noreferrer">Livestack</a></strong> <i>March 2020 - March 2021</i>
         <ul>
           <li> Livestack is a platform for creators to host livestream events and monetize their content.</li>
           <li> Created modular components with JavaScript React on the front-end - took advantage of React v.16+ to control state and components with React hooks and custom hooks.</li>
